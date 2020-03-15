@@ -1,0 +1,31 @@
+const alliances = {
+    "primordial": [2, 4],
+    "knight": [2, 4, 6],
+    "summoner": [2, 4],
+    "scaled": [2, 4],
+    "assassin": [3, 6],
+    "bloodbound": [2],
+    "brawny": [2, 4],
+    "brute": [2, 4],
+    "champion": [1],
+    "deadeye": [1],
+    "demon": [1],
+    "dragon": [2],
+    "druid": [2, 4],
+    "healer": [2, 4],
+    "heartless": [2, 4, 6],
+    "human": [2, 4, 6],
+    "hunter": [3, 6],
+    "insect": [2, 4],
+    "knight": [2, 4, 6],
+    "mage": [3, 6],
+    "savage": [2, 4, 6],
+    "spirit": [3],
+    "troll": [2, 4],
+    "vigilant": [2, 4],
+    "void": [3],
+    "warlock": [2, 4, 6],
+    "warrior": [3, 6]
+}
+
+export { alliances }
